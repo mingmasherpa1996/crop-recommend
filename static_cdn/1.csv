@@ -1,0 +1,887 @@
+Soil Type,Soil depth(cm),ph,Bulk density Gm/cc,Ec (dsm-1),Organic carbon (%),Soil moisture retention  (%),Available water capacity(m/m), Infiltration rate cm/hr, Clay %, Crops to be taken
+Laterite soil,5,5.3,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,90,8.2,1.4,1.7,0.4,37,0.26,1.8,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,18,7.3,1.6,0.7,0.3,27,0.08,13.9,26,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,27,8.4,1.5,0.7,0.3,28,0.1,10.9,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,81,8.1,1.4,1.7,0.4,37,0.26,1.6,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,3,8.1,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,67,8.4,1.4,0.4,0.4,30,0.24,3.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,6,7.4,1.6,0.7,0.3,27,0.08,12.3,22,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Red Soils,21,7.1,1.6,0.7,0.3,27,0.08,14.3,27,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,4.5,7.6,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,21,8.5,1.5,0.7,0.3,28,0.1,9.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,7.5,8.5,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,5,8.3,1.3,1.2,0.8,41,0.26,1.1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,64,8.2,1.4,0.4,0.4,30,0.24,3.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,24,8,1.5,0.7,0.3,28,0.1,10,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,12,8.4,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,18,8.4,1.5,0.7,0.3,28,0.1,8.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,81,8.3,1.4,0.4,0.4,30,0.24,6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,78,8.2,1.4,0.4,0.4,30,0.24,5.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,0,8,0.3,1.2,0.8,41,0.26,1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,80,8.3,1.4,0.4,0.4,30,0.24,5.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,66,8.5,1.4,0.4,0.4,30,0.24,3.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,30,8.5,1.3,1.2,0.8,41,0.26,1.6,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Laterite soil,20,5.1,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,40,8.4,1.4,0.8,0.6,37,0.24,3.1,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,38.5,8.3,1.4,0.8,0.6,37,0.24,3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,37,8.2,1.4,0.8,0.6,37,0.24,2.9,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,35,8.9,1.4,1.3,0.6,39,0.26,1.1,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,85,8.5,1.4,0.4,0.4,30,0.24,6.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,9,8.6,1.3,1.3,0.8,38,0.26,2.8,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,9,8.2,1.3,1.3,0.8,38,0.26,2.8,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,25,8.5,1.5,0.7,0.3,28,0.1,10.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,3,7.6,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,73,8.2,1.4,1.7,0.4,37,0.26,1.4,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,15,5.4,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,9,8.4,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,30,5.2,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,27,8.7,1.3,1.3,0.8,38,0.26,3.4,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,67,8.3,1.4,0.4,0.4,30,0.24,3.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,75,8.5,1.4,0.4,0.4,30,0.24,5.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,86,8.2,1.4,0.4,0.4,30,0.24,6.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,84,8.1,1.4,0.4,0.4,30,0.24,6.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,46,8.2,1.4,0.8,0.6,37,0.24,3.5,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,45,8.9,1.4,1.3,0.6,39,0.26,1.3,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,68,8.2,1.4,0.4,0.4,30,0.24,4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,1.5,8,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,18,8.6,1.3,1.3,0.8,38,0.26,3.1,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,61,8.2,1.4,1.7,0.4,37,0.26,1.1,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,65,8.1,1.4,1.7,0.4,37,0.26,1.2,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,37,8.4,1.4,0.8,0.6,37,0.24,2.9,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,107,8,1.5,1.9,0.3,35,0.26,1.5,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Red Soils,9,7.5,1.6,0.7,0.3,27,0.08,12.7,23,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,10,8.6,1.3,1.2,0.8,41,0.26,1.2,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,55,8.7,1.4,1.3,0.6,39,0.26,1.5,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,1.5,8.3,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,24,8.7,1.3,1.3,0.8,38,0.26,3.3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,18,8,1.5,0.7,0.3,28,0.1,8.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,37,8.5,1.4,0.8,0.6,37,0.24,2.9,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,75,8.2,1.4,0.4,0.4,30,0.24,5.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,24,7.4,1.6,0.7,0.3,27,0.08,14.7,28,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,48,8.4,1.4,0.8,0.6,37,0.24,3.6,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,85,8.3,1.4,1.7,0.4,37,0.26,1.7,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,40,8.2,1.4,1.3,0.6,39,0.26,1.2,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,10.5,8.2,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,21,8.4,1.3,1.3,0.8,38,0.26,3.2,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,77,8.1,1.4,1.7,0.4,37,0.26,1.5,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,19,8.2,1.5,0.7,0.3,28,0.1,8.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,1.5,8.1,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,90,8.2,1.4,0.4,0.4,30,0.24,7.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,78,8.4,1.4,0.4,0.4,30,0.24,5.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,55.5,8.4,1.4,0.8,0.6,37,0.24,4.1,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,87,8.5,1.4,0.4,0.4,30,0.24,6.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,21,8.2,1.3,1.3,0.8,38,0.26,3.2,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,38.5,8.2,1.4,0.8,0.6,37,0.24,3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,76,8.2,1.4,0.4,0.4,30,0.24,5.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,25,8.4,1.5,0.7,0.3,28,0.1,10.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,30,8.6,1.3,1.2,0.8,41,0.26,1.6,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,60,8.2,1.4,1.3,0.6,39,0.26,1.6,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,13.5,8.5,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,20,8.2,1.5,0.7,0.3,28,0.1,9.05,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,40,8.4,1.4,1.3,0.6,39,0.26,1.2,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,85,8.2,1.4,1.7,0.4,37,0.26,1.7,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,6,8,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,76,8.1,1.4,0.4,0.4,30,0.24,5.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,6,8.5,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,5,5.9,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,18,8.7,1.3,1.3,0.8,38,0.26,3.1,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,54,8.2,1.4,0.8,0.6,37,0.24,4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,27,8,1.5,0.7,0.3,28,0.1,10.9,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,3,7.9,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,15,8.2,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,35,8.1,1.4,1.3,0.6,39,0.26,1.1,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Red Soils,18,7.5,1.6,0.7,0.3,27,0.08,13.9,26,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,13.5,8.4,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,5,5.4,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Laterite soil,0,5.2,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,10.5,8.5,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,81,8.2,1.4,1.7,0.4,37,0.26,1.6,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,0,8.5,0.3,1.2,0.8,41,0.26,1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,61,8.4,1.4,1.7,0.4,37,0.26,1.1,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,30,5.6,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,87,8.1,1.4,0.4,0.4,30,0.24,6.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,20,8.1,1.3,1.2,0.8,41,0.26,1.4,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,71,8.3,1.4,0.4,0.4,30,0.24,4.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,5,5.7,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,3,7.7,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,13.5,8.2,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,30,8.2,1.3,1.3,0.8,38,0.26,3.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,29,8.2,1.5,0.7,0.3,28,0.1,11.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,46,8.3,1.4,0.8,0.6,37,0.24,3.5,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,35.5,8.4,1.4,0.8,0.6,37,0.24,2.8,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Red Soils,18,7.2,1.6,0.7,0.3,27,0.08,13.9,26,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,58.5,8.4,1.4,0.8,0.6,37,0.24,4.3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,17,8.2,1.5,0.7,0.3,28,0.1,8.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,6,8.9,1.3,1.3,0.8,38,0.26,2.7,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,30,8,1.3,1.2,0.8,41,0.26,1.6,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,81,8.1,1.4,0.4,0.4,30,0.24,6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,15,7.4,1.6,0.7,0.3,27,0.08,13.5,25,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,25,8.2,1.3,1.2,0.8,41,0.26,1.5,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,45,8.7,1.4,1.3,0.6,39,0.26,1.3,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,35,8.8,1.4,1.3,0.6,39,0.26,1.1,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,45,8.5,1.4,1.3,0.6,39,0.26,1.3,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,85,8,1.4,1.7,0.4,37,0.26,1.7,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,35,8.2,1.4,1.3,0.6,39,0.26,1.1,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,12,8.2,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,27,8.2,1.3,1.3,0.8,38,0.26,3.4,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,12,8.3,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,3,8.2,1.3,1.3,0.8,38,0.26,2.6,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,23,8,1.5,0.7,0.3,28,0.1,9.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,74,8.5,1.4,0.4,0.4,30,0.24,4.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,10.5,7.8,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,72,8.2,1.4,0.4,0.4,30,0.24,4.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,81,8.5,1.4,0.4,0.4,30,0.24,6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,13.5,7.9,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,107,7.6,1.5,1.9,0.3,35,0.26,1.5,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Red Soils,30,7.4,1.6,0.7,0.3,27,0.08,15.5,30,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Red Soils,6,7,1.6,0.7,0.3,27,0.08,12.3,22,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,6,8.4,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,24,8.2,1.3,1.3,0.8,38,0.26,3.3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,65,7.9,1.4,1.7,0.4,37,0.26,1.2,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,20,8.3,1.5,0.7,0.3,28,0.1,9.05,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,84,8.3,1.4,0.4,0.4,30,0.24,6.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,41.5,8.4,1.4,0.8,0.6,37,0.24,3.2,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,30,5.3,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,44.5,8.3,1.4,0.8,0.6,37,0.24,3.4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Red Soils,24,7.1,1.6,0.7,0.3,27,0.08,14.7,28,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,0,8,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,7.5,8.4,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,95,8.1,1.5,1.9,0.3,35,0.26,1.2,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,19,8.4,1.5,0.7,0.3,28,0.1,8.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,82,8.5,1.4,0.4,0.4,30,0.24,6.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,40,8.3,1.4,0.8,0.6,37,0.24,3.1,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,51,8.5,1.4,0.8,0.6,37,0.24,3.8,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Red Soils,3,7.5,1.6,0.7,0.3,27,0.08,11.9,21,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,15,8.6,1.3,1.3,0.8,38,0.26,3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,30,7.2,1.6,0.7,0.3,27,0.08,15.5,30,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,9,8.5,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,7.5,8.3,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,91,7.6,1.5,1.9,0.3,35,0.26,1.1,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,66,8.2,1.4,0.4,0.4,30,0.24,3.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,68,8.5,1.4,0.4,0.4,30,0.24,4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,23,8.3,1.5,0.7,0.3,28,0.1,9.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,67,8.5,1.4,0.4,0.4,30,0.24,3.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,91,8.1,1.5,1.9,0.3,35,0.26,1.1,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Laterite soil,15,5.3,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,32.5,8.3,1.4,0.8,0.6,37,0.24,2.6,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,10.5,7.5,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,99,7.7,1.5,1.9,0.3,35,0.26,1.3,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,77,8.2,1.4,0.4,0.4,30,0.24,5.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,90,8.1,1.4,0.4,0.4,30,0.24,7.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,0,8.2,1.3,1.3,0.8,38,0.26,2.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,70,8.1,1.4,0.4,0.4,30,0.24,4.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,24,7.5,1.6,0.7,0.3,27,0.08,14.7,28,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,69,8.3,1.4,0.4,0.4,30,0.24,4.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,90,8.3,1.4,0.4,0.4,30,0.24,7.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,30,8.5,1.3,1.3,0.8,38,0.26,3.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,66,8.4,1.4,0.4,0.4,30,0.24,3.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,9,8.1,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,6,8.5,1.3,1.3,0.8,38,0.26,2.7,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,10,5.6,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,22,8.4,1.5,0.7,0.3,28,0.1,9.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Red Soils,24,7.2,1.6,0.7,0.3,27,0.08,14.7,28,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,0,8.5,1.3,1.3,0.8,38,0.26,2.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,3,7,1.6,0.7,0.3,27,0.08,11.9,21,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,3,8.2,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Red Soils,24,7,1.6,0.7,0.3,27,0.08,14.7,28,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,3,8.7,1.3,1.3,0.8,38,0.26,2.6,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,40,8.1,1.4,1.3,0.6,39,0.26,1.2,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,26,8.1,1.5,0.7,0.3,28,0.1,10.6,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,103,7.9,1.5,1.9,0.3,35,0.26,1.4,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,0,7.9,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,15,8.3,1.3,1.2,0.8,41,0.26,1.3,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,77,8.4,1.4,0.4,0.4,30,0.24,5.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,85,8.2,1.4,0.4,0.4,30,0.24,6.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,63,8.5,1.4,0.4,0.4,30,0.24,3.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,87,8.3,1.4,0.4,0.4,30,0.24,6.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,28,8.1,1.5,0.7,0.3,28,0.1,11.1,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,25,8,1.3,1.2,0.8,41,0.26,1.5,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,29,8.4,1.5,0.7,0.3,28,0.1,11.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,120,8,1.5,1.9,0.3,35,0.26,1.8,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,71,8.5,1.4,0.4,0.4,30,0.24,4.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,27,8.3,1.3,1.3,0.8,38,0.26,3.4,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,83,8.1,1.4,0.4,0.4,30,0.24,6.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,82,8.3,1.4,0.4,0.4,30,0.24,6.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,61,8.3,1.4,0.4,0.4,30,0.24,3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,5,8.6,1.3,1.2,0.8,41,0.26,1.1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,30,8.4,1.5,0.7,0.3,28,0.1,11.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,10,5.7,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,115,8,1.5,1.9,0.3,35,0.26,1.7,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,19,8.3,1.5,0.7,0.3,28,0.1,8.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,27,8.4,1.3,1.3,0.8,38,0.26,3.4,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,28,8.5,1.5,0.7,0.3,28,0.1,11.1,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,9,8.8,1.3,1.3,0.8,38,0.26,2.8,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,61,8.3,1.4,1.7,0.4,37,0.26,1.1,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,28,7.9,1.5,0.7,0.3,28,0.1,11.1,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,45,8.1,1.4,1.3,0.6,39,0.26,1.3,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,15,7.5,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,21,8.2,1.5,0.7,0.3,28,0.1,9.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,30,5.4,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Laterite soil,0,5.1,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,48,8.3,1.4,0.8,0.6,37,0.24,3.6,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,60,8.5,1.4,0.8,0.6,37,0.24,4.4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,73,8.1,1.4,0.4,0.4,30,0.24,4.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,10,8,1.3,1.2,0.8,41,0.26,1.2,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Red Soils,0,7.1,1.6,0.7,0.3,27,0.08,11.5,20,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Laterite soil,20,5,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,76,8.5,1.4,0.4,0.4,30,0.24,5.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,90,8.5,1.4,0.4,0.4,30,0.24,7.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,21,7.5,1.6,0.7,0.3,27,0.08,14.3,27,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,25,8.3,1.3,1.2,0.8,41,0.26,1.5,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,55,8.6,1.4,1.3,0.6,39,0.26,1.5,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,21,8.7,1.3,1.3,0.8,38,0.26,3.2,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,3,8.3,1.3,1.3,0.8,38,0.26,2.6,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,30,8.3,1.3,1.2,0.8,41,0.26,1.6,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,51,8.3,1.4,0.8,0.6,37,0.24,3.8,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,69,8.5,1.4,0.4,0.4,30,0.24,4.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,31,8.3,1.4,0.8,0.6,37,0.24,2.5,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,55.5,8.5,1.4,0.8,0.6,37,0.24,4.1,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,40,8.9,1.4,1.3,0.6,39,0.26,1.2,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,7.5,7.7,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Red Soils,15,7.2,1.6,0.7,0.3,27,0.08,13.5,25,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,120,7.7,1.5,1.9,0.3,35,0.26,1.8,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,22,8.1,1.5,0.7,0.3,28,0.1,9.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,32.5,8.2,1.4,0.8,0.6,37,0.24,2.6,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,7.5,7.6,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,61,8,1.4,1.7,0.4,37,0.26,1.1,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,17,7.9,1.5,0.7,0.3,28,0.1,8.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,60,8.4,1.4,0.8,0.6,37,0.24,4.4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,1.5,7.5,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,19,7.9,1.5,0.7,0.3,28,0.1,8.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,17,8.1,1.5,0.7,0.3,28,0.1,8.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,77,8.5,1.4,0.4,0.4,30,0.24,5.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,27,7.3,1.6,0.7,0.3,27,0.08,15.1,29,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,18,8.5,1.3,1.3,0.8,38,0.26,3.1,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,12,8.8,1.3,1.3,0.8,38,0.26,2.9,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,81,8.4,1.4,0.4,0.4,30,0.24,6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,62,8.1,1.4,0.4,0.4,30,0.24,3.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,12,7.8,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,24,7.9,1.5,0.7,0.3,28,0.1,10,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Red Soils,3,7.4,1.6,0.7,0.3,27,0.08,11.9,21,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Laterite soil,30,5.8,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,28,8.2,1.5,0.7,0.3,28,0.1,11.1,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,70,8.5,1.4,0.4,0.4,30,0.24,4.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,6,7.8,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,6,8.4,1.3,1.3,0.8,38,0.26,2.7,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,6,8.3,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,25,8.6,1.3,1.2,0.8,41,0.26,1.5,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,18,8.8,1.3,1.3,0.8,38,0.26,3.1,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,84,8.4,1.4,0.4,0.4,30,0.24,6.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,50,8.4,1.4,1.3,0.6,39,0.26,1.4,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,10,8.2,1.3,1.2,0.8,41,0.26,1.2,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,80,8.2,1.4,0.4,0.4,30,0.24,5.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,0,7.4,1.6,0.7,0.3,27,0.08,11.5,20,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,85,8.1,1.4,0.4,0.4,30,0.24,6.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,30,8.8,1.3,1.3,0.8,38,0.26,3.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,72,8.5,1.4,0.4,0.4,30,0.24,4.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,30,8.1,1.5,0.7,0.3,28,0.1,11.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,10,5.4,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,88,8.1,1.4,0.4,0.4,30,0.24,7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,81,8.4,1.4,1.7,0.4,37,0.26,1.6,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,60,8.1,1.4,1.3,0.6,39,0.26,1.6,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,10,5,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,68,8.4,1.4,0.4,0.4,30,0.24,4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,0,5.5,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Laterite soil,25,5.1,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,20,8.1,1.5,0.7,0.3,28,0.1,9.05,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,0,8.5,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,19,8.1,1.5,0.7,0.3,28,0.1,8.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,69,8.2,1.4,0.4,0.4,30,0.24,4.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,21,8.4,1.5,0.7,0.3,28,0.1,9.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,9,8.3,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,12,8,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Red Soils,12,7.2,1.6,0.7,0.3,27,0.08,13.1,24,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,61,8.1,1.4,1.7,0.4,37,0.26,1.1,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,4.5,8.5,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,90,8,1.4,1.7,0.4,37,0.26,1.8,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,0,7.6,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,79,8.5,1.4,0.4,0.4,30,0.24,5.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,43,8.5,1.4,0.8,0.6,37,0.24,3.3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,23,8.1,1.5,0.7,0.3,28,0.1,9.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,62,8.3,1.4,0.4,0.4,30,0.24,3.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,103,8.1,1.5,1.9,0.3,35,0.26,1.4,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,81,8.2,1.4,0.4,0.4,30,0.24,6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,20,8,1.5,0.7,0.3,28,0.1,9.05,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,20,5.6,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,46,8.4,1.4,0.8,0.6,37,0.24,3.5,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,7.5,7.9,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,20,5,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,66,8.3,1.4,0.4,0.4,30,0.24,3.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,16,8,1.5,0.7,0.3,28,0.1,8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,63,8.2,1.4,0.4,0.4,30,0.24,3.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,62,8.2,1.4,0.4,0.4,30,0.24,3.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,15,5.5,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,89,8.3,1.4,0.4,0.4,30,0.24,7.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,35.5,8.2,1.4,0.8,0.6,37,0.24,2.8,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,16,8.2,1.5,0.7,0.3,28,0.1,8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,30,5.9,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Laterite soil,10,5.2,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,10.5,8.4,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,30,8.1,1.3,1.2,0.8,41,0.26,1.6,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,70,8.3,1.4,0.4,0.4,30,0.24,4.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,23,8.5,1.5,0.7,0.3,28,0.1,9.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,87,8.2,1.4,0.4,0.4,30,0.24,6.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,27,8.1,1.5,0.7,0.3,28,0.1,10.9,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,3,8.6,1.3,1.3,0.8,38,0.26,2.6,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,73,8.3,1.4,1.7,0.4,37,0.26,1.4,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,25,5.8,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,75,8.4,1.4,0.4,0.4,30,0.24,5.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,16,8.3,1.5,0.7,0.3,28,0.1,8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,60,8.7,1.4,1.3,0.6,39,0.26,1.6,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,45,8.4,1.4,1.3,0.6,39,0.26,1.3,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,15,7.9,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,10,5.3,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,73,8.4,1.4,0.4,0.4,30,0.24,4.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,13.5,7.7,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,30,8.2,1.3,1.2,0.8,41,0.26,1.6,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,0,7.8,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,5,5,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,50,8.6,1.4,1.3,0.6,39,0.26,1.4,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,12,8.9,1.3,1.3,0.8,38,0.26,2.9,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,15,8.1,1.3,1.2,0.8,41,0.26,1.3,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,0,8.3,1.3,1.3,0.8,38,0.26,2.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,120,7.9,1.5,1.9,0.3,35,0.26,1.8,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,4.5,8.1,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,27,8.5,1.3,1.3,0.8,38,0.26,3.4,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,16,7.9,1.5,0.7,0.3,28,0.1,8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Red Soils,9,7.2,1.6,0.7,0.3,27,0.08,12.7,23,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,81,7.9,1.4,1.7,0.4,37,0.26,1.6,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,50,8.7,1.4,1.3,0.6,39,0.26,1.4,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,77,8.3,1.4,1.7,0.4,37,0.26,1.5,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,27,7,1.6,0.7,0.3,27,0.08,15.1,29,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,26,8,1.5,0.7,0.3,28,0.1,10.6,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,28,8,1.5,0.7,0.3,28,0.1,11.1,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,107,7.9,1.5,1.9,0.3,35,0.26,1.5,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,64,8.5,1.4,0.4,0.4,30,0.24,3.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,3,8.5,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,17,8.5,1.5,0.7,0.3,28,0.1,8.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,1.5,7.9,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,74,8.4,1.4,0.4,0.4,30,0.24,4.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,35.5,8.3,1.4,0.8,0.6,37,0.24,2.8,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,27,8.8,1.3,1.3,0.8,38,0.26,3.4,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,55,8.8,1.4,1.3,0.6,39,0.26,1.5,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,69,8.3,1.4,1.7,0.4,37,0.26,1.3,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,6,8.7,1.3,1.3,0.8,38,0.26,2.7,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,24,7.3,1.6,0.7,0.3,27,0.08,14.7,28,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,111,7.7,1.5,1.9,0.3,35,0.26,1.6,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,15,7.8,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,13.5,7.5,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,25,8.5,1.3,1.2,0.8,41,0.26,1.5,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Laterite soil,20,5.2,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,77,7.9,1.4,1.7,0.4,37,0.26,1.5,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,35,8.3,1.4,1.3,0.6,39,0.26,1.1,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,52.5,8.4,1.4,0.8,0.6,37,0.24,3.9,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Red Soils,6,7.1,1.6,0.7,0.3,27,0.08,12.3,22,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,38.5,8.5,1.4,0.8,0.6,37,0.24,3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,0,5.7,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,99,7.8,1.5,1.9,0.3,35,0.26,1.3,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,64,8.1,1.4,0.4,0.4,30,0.24,3.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,1.5,7.6,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,78,8.5,1.4,0.4,0.4,30,0.24,5.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,76,8.3,1.4,0.4,0.4,30,0.24,5.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,30,5,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,24,8.5,1.3,1.3,0.8,38,0.26,3.3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,22,7.9,1.5,0.7,0.3,28,0.1,9.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,35,8.4,1.4,1.3,0.6,39,0.26,1.1,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Red Soils,21,7.2,1.6,0.7,0.3,27,0.08,14.3,27,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,83,8.5,1.4,0.4,0.4,30,0.24,6.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,20,5.3,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,6,7.5,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,41.5,8.3,1.4,0.8,0.6,37,0.24,3.2,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,89,8.2,1.4,0.4,0.4,30,0.24,7.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,9,8.7,1.3,1.3,0.8,38,0.26,2.8,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,0,7.3,1.6,0.7,0.3,27,0.08,11.5,20,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,0,7.5,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,20,5.7,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,17,8.3,1.5,0.7,0.3,28,0.1,8.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,22,8.2,1.5,0.7,0.3,28,0.1,9.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,79,8.1,1.4,0.4,0.4,30,0.24,5.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,95,7.8,1.5,1.9,0.3,35,0.26,1.2,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Laterite soil,0,5.6,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,29,8.5,1.5,0.7,0.3,28,0.1,11.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,60,8.4,1.4,1.3,0.6,39,0.26,1.6,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,20,8.6,1.3,1.2,0.8,41,0.26,1.4,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,30,8.6,1.3,1.3,0.8,38,0.26,3.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,60,8.3,1.4,0.8,0.6,37,0.24,4.4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,70,8.4,1.4,0.4,0.4,30,0.24,4.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,30,8.3,1.3,1.3,0.8,38,0.26,3.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,9,7.6,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,21,8.1,1.5,0.7,0.3,28,0.1,9.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,73,7.9,1.4,1.7,0.4,37,0.26,1.4,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,55,8.2,1.4,1.3,0.6,39,0.26,1.5,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,85,8.3,1.4,0.4,0.4,30,0.24,6.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,52.5,8.2,1.4,0.8,0.6,37,0.24,3.9,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,120,7.8,1.5,1.9,0.3,35,0.26,1.8,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Deep black soil,115,7.7,1.5,1.9,0.3,35,0.26,1.7,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,44.5,8.5,1.4,0.8,0.6,37,0.24,3.4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,5,5.5,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Red Soils,15,7,1.6,0.7,0.3,27,0.08,13.5,25,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,7.5,8.2,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,13.5,7.6,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,50,8.2,1.4,1.3,0.6,39,0.26,1.4,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,63,8.4,1.4,0.4,0.4,30,0.24,3.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,1.5,8.5,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,18,8.1,1.5,0.7,0.3,28,0.1,8.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,40,8.8,1.4,1.3,0.6,39,0.26,1.2,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,0,5.4,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,0,8.4,1.3,1.3,0.8,38,0.26,2.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,99,7.6,1.5,1.9,0.3,35,0.26,1.3,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,12,8.1,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,25,8.1,1.3,1.2,0.8,41,0.26,1.5,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,20,8.4,1.5,0.7,0.3,28,0.1,9.05,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,27,8.6,1.3,1.3,0.8,38,0.26,3.4,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,6,8.2,1.3,1.3,0.8,38,0.26,2.7,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,95,7.9,1.5,1.9,0.3,35,0.26,1.2,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Red Soils,30,7.1,1.6,0.7,0.3,27,0.08,15.5,30,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,88,8.2,1.4,0.4,0.4,30,0.24,7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,4.5,8.4,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,111,7.8,1.5,1.9,0.3,35,0.26,1.6,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,21,8.8,1.3,1.3,0.8,38,0.26,3.2,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,72,8.1,1.4,0.4,0.4,30,0.24,4.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,65,8.5,1.4,0.4,0.4,30,0.24,3.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,6,7.7,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,0,8.2,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,54,8.5,1.4,0.8,0.6,37,0.24,4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,83,8.3,1.4,0.4,0.4,30,0.24,6.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,30,8.4,1.3,1.2,0.8,41,0.26,1.6,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,0,8.1,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,60,8.3,1.4,1.3,0.6,39,0.26,1.6,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,44.5,8.2,1.4,0.8,0.6,37,0.24,3.4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,45,8.3,1.4,1.3,0.6,39,0.26,1.3,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,0,8.2,0.3,1.2,0.8,41,0.26,1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,15,7.6,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,58.5,8.5,1.4,0.8,0.6,37,0.24,4.3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,49.5,8.2,1.4,0.8,0.6,37,0.24,3.7,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,43,8.2,1.4,0.8,0.6,37,0.24,3.3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,22,8.5,1.5,0.7,0.3,28,0.1,9.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Red Soils,18,7,1.6,0.7,0.3,27,0.08,13.9,26,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,49.5,8.5,1.4,0.8,0.6,37,0.24,3.7,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,63,8.1,1.4,0.4,0.4,30,0.24,3.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,83,8.4,1.4,0.4,0.4,30,0.24,6.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,52.5,8.3,1.4,0.8,0.6,37,0.24,3.9,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,61,8.4,1.4,0.4,0.4,30,0.24,3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,9,8.5,1.3,1.3,0.8,38,0.26,2.8,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,40,8.5,1.4,0.8,0.6,37,0.24,3.1,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,57,8.3,1.4,0.8,0.6,37,0.24,4.2,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,3,7.8,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Red Soils,30,7.5,1.6,0.7,0.3,27,0.08,15.5,30,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,69,8.4,1.4,0.4,0.4,30,0.24,4.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,26,8.4,1.5,0.7,0.3,28,0.1,10.6,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,81,8.3,1.4,1.7,0.4,37,0.26,1.6,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,34,8.4,1.4,0.8,0.6,37,0.24,2.7,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,5,8.2,1.3,1.2,0.8,41,0.26,1.1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,1.5,8.4,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,26,8.2,1.5,0.7,0.3,28,0.1,10.6,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,55.5,8.2,1.4,0.8,0.6,37,0.24,4.1,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,85,8.4,1.4,1.7,0.4,37,0.26,1.7,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,31,8.4,1.4,0.8,0.6,37,0.24,2.5,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,15,5.8,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,0,8.1,0.3,1.2,0.8,41,0.26,1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,88,8.4,1.4,0.4,0.4,30,0.24,7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,6,7.9,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,115,7.8,1.5,1.9,0.3,35,0.26,1.7,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,89,8.5,1.4,0.4,0.4,30,0.24,7.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,15,8,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,15,5.2,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,10,8.4,1.3,1.2,0.8,41,0.26,1.2,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,61,8.2,1.4,0.4,0.4,30,0.24,3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,40,8.6,1.4,1.3,0.6,39,0.26,1.2,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,0,8.6,1.3,1.3,0.8,38,0.26,2.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,6,8.6,1.3,1.3,0.8,38,0.26,2.7,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,15,8.2,1.3,1.3,0.8,38,0.26,3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,51,8.2,1.4,0.8,0.6,37,0.24,3.8,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,61,7.9,1.4,1.7,0.4,37,0.26,1.1,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,30,8,1.5,0.7,0.3,28,0.1,11.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,12,8.6,1.3,1.3,0.8,38,0.26,2.9,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,25,5.2,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,24,8.9,1.3,1.3,0.8,38,0.26,3.3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,87,8.4,1.4,0.4,0.4,30,0.24,6.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,9,7.3,1.6,0.7,0.3,27,0.08,12.7,23,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,41.5,8.2,1.4,0.8,0.6,37,0.24,3.2,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,25,5.3,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,120,8.1,1.5,1.9,0.3,35,0.26,1.8,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,71,8.2,1.4,0.4,0.4,30,0.24,4.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,18,7.1,1.6,0.7,0.3,27,0.08,13.9,26,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,86,8.4,1.4,0.4,0.4,30,0.24,6.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,55.5,8.3,1.4,0.8,0.6,37,0.24,4.1,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,111,7.6,1.5,1.9,0.3,35,0.26,1.6,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,65,8.2,1.4,0.4,0.4,30,0.24,3.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,25,8.3,1.5,0.7,0.3,28,0.1,10.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,69,8.1,1.4,1.7,0.4,37,0.26,1.3,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,15,5,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,86,8.1,1.4,0.4,0.4,30,0.24,6.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,19,8,1.5,0.7,0.3,28,0.1,8.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,10,5.8,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,69,8,1.4,1.7,0.4,37,0.26,1.3,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,25,5.7,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Laterite soil,5,5.6,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,1.5,7.8,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,79,8.3,1.4,0.4,0.4,30,0.24,5.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,45,8.8,1.4,1.3,0.6,39,0.26,1.3,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,0,8.9,1.3,1.3,0.8,38,0.26,2.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,88,8.5,1.4,0.4,0.4,30,0.24,7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,7.5,7.5,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,12,8.7,1.3,1.3,0.8,38,0.26,2.9,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,23,7.9,1.5,0.7,0.3,28,0.1,9.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,0,8.3,0.3,1.2,0.8,41,0.26,1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,21,8.9,1.3,1.3,0.8,38,0.26,3.2,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,10,8.3,1.3,1.2,0.8,41,0.26,1.2,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Red Soils,9,7.4,1.6,0.7,0.3,27,0.08,12.7,23,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,50,8.1,1.4,1.3,0.6,39,0.26,1.4,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,18,7.9,1.5,0.7,0.3,28,0.1,8.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Red Soils,15,7.1,1.6,0.7,0.3,27,0.08,13.5,25,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,3,8.9,1.3,1.3,0.8,38,0.26,2.6,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,60,8.8,1.4,1.3,0.6,39,0.26,1.6,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,26,7.9,1.5,0.7,0.3,28,0.1,10.6,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,31,8.2,1.4,0.8,0.6,37,0.24,2.5,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,3,8.8,1.3,1.3,0.8,38,0.26,2.6,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,12,8.5,1.3,1.3,0.8,38,0.26,2.9,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,5,8,1.3,1.2,0.8,41,0.26,1.1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,15,8.3,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,28,8.4,1.5,0.7,0.3,28,0.1,11.1,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,25,5.5,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Red Soils,21,7.4,1.6,0.7,0.3,27,0.08,14.3,27,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,4.5,8.2,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Red Soils,6,7.5,1.6,0.7,0.3,27,0.08,12.3,22,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,75,8.1,1.4,0.4,0.4,30,0.24,5.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,9,8.2,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,18,8.4,1.3,1.3,0.8,38,0.26,3.1,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,7.5,7.8,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,61,8.5,1.4,0.4,0.4,30,0.24,3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,34,8.3,1.4,0.8,0.6,37,0.24,2.7,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,111,8,1.5,1.9,0.3,35,0.26,1.6,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,48,8.5,1.4,0.8,0.6,37,0.24,3.6,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,21,8.3,1.5,0.7,0.3,28,0.1,9.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,65,8.4,1.4,1.7,0.4,37,0.26,1.2,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,12,7.5,1.6,0.7,0.3,27,0.08,13.1,24,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,15,8.6,1.3,1.2,0.8,41,0.26,1.3,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,27,8.3,1.5,0.7,0.3,28,0.1,10.9,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Red Soils,15,7.5,1.6,0.7,0.3,27,0.08,13.5,25,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,45,8.6,1.4,1.3,0.6,39,0.26,1.3,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,9,7.9,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,23,8.4,1.5,0.7,0.3,28,0.1,9.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,15,8.5,1.3,1.3,0.8,38,0.26,3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,69,8.4,1.4,1.7,0.4,37,0.26,1.3,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,12,7,1.6,0.7,0.3,27,0.08,13.1,24,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,19,8.5,1.5,0.7,0.3,28,0.1,8.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,70,8.2,1.4,0.4,0.4,30,0.24,4.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,25,8.2,1.5,0.7,0.3,28,0.1,10.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,65,8.2,1.4,1.7,0.4,37,0.26,1.2,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,60,8.5,1.4,1.3,0.6,39,0.26,1.6,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,27,8.9,1.3,1.3,0.8,38,0.26,3.4,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,107,8.1,1.5,1.9,0.3,35,0.26,1.5,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,32.5,8.4,1.4,0.8,0.6,37,0.24,2.6,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Red Soils,9,7.1,1.6,0.7,0.3,27,0.08,12.7,23,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Laterite soil,15,5.9,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,68,8.1,1.4,0.4,0.4,30,0.24,4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,3,8.3,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,18,8.5,1.5,0.7,0.3,28,0.1,8.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,15,5.6,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Laterite soil,25,5.9,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Laterite soil,25,5.6,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,43,8.4,1.4,0.8,0.6,37,0.24,3.3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,16,8.4,1.5,0.7,0.3,28,0.1,8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,0,8.4,0.3,1.2,0.8,41,0.26,1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Red Soils,27,7.4,1.6,0.7,0.3,27,0.08,15.1,29,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,4.5,7.8,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,67,8.1,1.4,0.4,0.4,30,0.24,3.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,9,7,1.6,0.7,0.3,27,0.08,12.7,23,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,24,8.2,1.5,0.7,0.3,28,0.1,10,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,5,5.1,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Laterite soil,0,6,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,18,8.2,1.3,1.3,0.8,38,0.26,3.1,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,3,8,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,27,8.2,1.5,0.7,0.3,28,0.1,10.9,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,15,8,1.3,1.2,0.8,41,0.26,1.3,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,45,8.2,1.4,1.3,0.6,39,0.26,1.3,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,6,8.8,1.3,1.3,0.8,38,0.26,2.7,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,9,7.7,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,20,8.5,1.3,1.2,0.8,41,0.26,1.4,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Laterite soil,10,5.9,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,73,8.2,1.4,0.4,0.4,30,0.24,4.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,27,7.9,1.5,0.7,0.3,28,0.1,10.9,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,95,7.7,1.5,1.9,0.3,35,0.26,1.2,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,4.5,7.5,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,73,8.4,1.4,1.7,0.4,37,0.26,1.4,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,0,8.4,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,20,8.2,1.3,1.2,0.8,41,0.26,1.4,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,6,7.6,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,21,8,1.5,0.7,0.3,28,0.1,9.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,77,8.2,1.4,1.7,0.4,37,0.26,1.5,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,55,8.3,1.4,1.3,0.6,39,0.26,1.5,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,5,8.4,1.3,1.2,0.8,41,0.26,1.1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,28,8.3,1.5,0.7,0.3,28,0.1,11.1,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,49.5,8.3,1.4,0.8,0.6,37,0.24,3.7,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,4.5,7.9,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,35,8.7,1.4,1.3,0.6,39,0.26,1.1,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,12,8.5,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,1.5,7.7,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,20,5.9,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,23,8.2,1.5,0.7,0.3,28,0.1,9.8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,40,8.5,1.4,1.3,0.6,39,0.26,1.2,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,18,8.3,1.5,0.7,0.3,28,0.1,8.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,25,5,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,15,8.9,1.3,1.3,0.8,38,0.26,3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,90,8.4,1.4,1.7,0.4,37,0.26,1.8,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,50,8.5,1.4,1.3,0.6,39,0.26,1.4,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,95,7.6,1.5,1.9,0.3,35,0.26,1.2,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Deep black soil,73,8,1.4,1.7,0.4,37,0.26,1.4,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,63,8.3,1.4,0.4,0.4,30,0.24,3.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,30,5.1,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,18,8.9,1.3,1.3,0.8,38,0.26,3.1,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,77,8.3,1.4,0.4,0.4,30,0.24,5.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,15,8.2,1.3,1.2,0.8,41,0.26,1.3,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,40,8.7,1.4,1.3,0.6,39,0.26,1.2,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,20,8.4,1.3,1.2,0.8,41,0.26,1.4,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,115,7.9,1.5,1.9,0.3,35,0.26,1.7,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Red Soils,0,7,1.6,0.7,0.3,27,0.08,11.5,20,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,69,7.9,1.4,1.7,0.4,37,0.26,1.3,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,6,7.2,1.6,0.7,0.3,27,0.08,12.3,22,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,10.5,7.6,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,20,5.8,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,16,8.5,1.5,0.7,0.3,28,0.1,8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,55,8.9,1.4,1.3,0.6,39,0.26,1.5,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,99,8,1.5,1.9,0.3,35,0.26,1.3,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,60,8.2,1.4,0.8,0.6,37,0.24,4.4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,29,8,1.5,0.7,0.3,28,0.1,11.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,34,8.2,1.4,0.8,0.6,37,0.24,2.7,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,55,8.1,1.4,1.3,0.6,39,0.26,1.5,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,12,8.2,1.3,1.3,0.8,38,0.26,2.9,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,49.5,8.4,1.4,0.8,0.6,37,0.24,3.7,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,15,8.4,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,57,8.2,1.4,0.8,0.6,37,0.24,4.2,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,7.5,8.1,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,22,8.3,1.5,0.7,0.3,28,0.1,9.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,72,8.3,1.4,0.4,0.4,30,0.24,4.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,10.5,7.7,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,6,8.2,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,10,8.5,1.3,1.2,0.8,41,0.26,1.2,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,91,7.7,1.5,1.9,0.3,35,0.26,1.1,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,9,8.4,1.3,1.3,0.8,38,0.26,2.8,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,24,8.4,1.3,1.3,0.8,38,0.26,3.3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,3,7.1,1.6,0.7,0.3,27,0.08,11.9,21,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,103,7.6,1.5,1.9,0.3,35,0.26,1.4,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,24,8.4,1.5,0.7,0.3,28,0.1,10,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,10,5,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,69,8.2,1.4,1.7,0.4,37,0.26,1.3,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,12,7.7,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,73,8.3,1.4,0.4,0.4,30,0.24,4.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,0,5.3,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,51,8.4,1.4,0.8,0.6,37,0.24,3.8,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Red Soils,0,7.5,1.6,0.7,0.3,27,0.08,11.5,20,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Red Soils,3,7.3,1.6,0.7,0.3,27,0.08,11.9,21,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Red Soils,27,7.1,1.6,0.7,0.3,27,0.08,15.1,29,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,24,8.6,1.3,1.3,0.8,38,0.26,3.3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,3,7.5,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,12,8.4,1.3,1.3,0.8,38,0.26,2.9,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,1.5,8.2,1.3,1.2,0.5,34,0.06,7.6,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,68,8.3,1.4,0.4,0.4,30,0.24,4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,82,8.1,1.4,0.4,0.4,30,0.24,6.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,30,8.4,1.3,1.3,0.8,38,0.26,3.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,115,7.6,1.5,1.9,0.3,35,0.26,1.7,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Laterite soil,5,5,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,111,8.1,1.5,1.9,0.3,35,0.26,1.6,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Deep black soil,10,8.1,1.3,1.2,0.8,41,0.26,1.2,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Shallow soil ,26,8.5,1.5,0.7,0.3,28,0.1,10.6,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,65,8,1.4,1.7,0.4,37,0.26,1.2,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,30,8.9,1.3,1.3,0.8,38,0.26,3.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,29,7.9,1.5,0.7,0.3,28,0.1,11.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,84,8.2,1.4,0.4,0.4,30,0.24,6.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,0,7.2,1.6,0.7,0.3,27,0.08,11.5,20,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,41.5,8.5,1.4,0.8,0.6,37,0.24,3.2,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,18,8.2,1.5,0.7,0.3,28,0.1,8.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,80,8.4,1.4,0.4,0.4,30,0.24,5.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,88,8.3,1.4,0.4,0.4,30,0.24,7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,12,7.4,1.6,0.7,0.3,27,0.08,13.1,24,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,84,8.5,1.4,0.4,0.4,30,0.24,6.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,80,8.1,1.4,0.4,0.4,30,0.24,5.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,29,8.3,1.5,0.7,0.3,28,0.1,11.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,13.5,8,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,74,8.1,1.4,0.4,0.4,30,0.24,4.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,58.5,8.3,1.4,0.8,0.6,37,0.24,4.3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,89,8.4,1.4,0.4,0.4,30,0.24,7.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,10,5.1,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,24,8.3,1.3,1.3,0.8,38,0.26,3.3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,91,8,1.5,1.9,0.3,35,0.26,1.1,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,65,8.1,1.4,0.4,0.4,30,0.24,3.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,20,8.5,1.5,0.7,0.3,28,0.1,9.05,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,76,8.4,1.4,0.4,0.4,30,0.24,5.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,69,8.1,1.4,0.4,0.4,30,0.24,4.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,82,8.2,1.4,0.4,0.4,30,0.24,6.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,50,8.9,1.4,1.3,0.6,39,0.26,1.4,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,15,5.1,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,25,7.9,1.5,0.7,0.3,28,0.1,10.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,3,8.4,1.3,1.3,0.8,38,0.26,2.6,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,21,7.3,1.6,0.7,0.3,27,0.08,14.3,27,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,20,8.3,1.3,1.2,0.8,41,0.26,1.4,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,73,8.1,1.4,1.7,0.4,37,0.26,1.4,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,57,8.5,1.4,0.8,0.6,37,0.24,4.2,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Red Soils,30,7.3,1.6,0.7,0.3,27,0.08,15.5,30,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,65,8.4,1.4,0.4,0.4,30,0.24,3.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,30,7.9,1.5,0.7,0.3,28,0.1,11.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,72,8.4,1.4,0.4,0.4,30,0.24,4.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,5,5.2,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,89,8.1,1.4,0.4,0.4,30,0.24,7.2,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,66,8.1,1.4,0.4,0.4,30,0.24,3.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,6,7.3,1.6,0.7,0.3,27,0.08,12.3,22,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,32.5,8.5,1.4,0.8,0.6,37,0.24,2.6,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,99,8.1,1.5,1.9,0.3,35,0.26,1.3,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Laterite soil,30,5.7,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,6,8.1,1.3,1.2,0.5,34,0.06,7.9,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,12,8.3,1.3,1.3,0.8,38,0.26,2.9,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,5,5.8,1.7,0.5,0.3,25,0.06,12,19,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Laterite soil,0,5.8,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,81,8,1.4,1.7,0.4,37,0.26,1.6,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,75,8.3,1.4,0.4,0.4,30,0.24,5.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,85,7.9,1.4,1.7,0.4,37,0.26,1.7,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,5,8.1,1.3,1.2,0.8,41,0.26,1.1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,74,8.3,1.4,0.4,0.4,30,0.24,4.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,4.5,8,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,35,8.6,1.4,1.3,0.6,39,0.26,1.1,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,3,8.5,1.3,1.3,0.8,38,0.26,2.6,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,4.5,7.7,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,40,8.2,1.4,0.8,0.6,37,0.24,3.1,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,15,7.7,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,64,8.3,1.4,0.4,0.4,30,0.24,3.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,65,8.3,1.4,1.7,0.4,37,0.26,1.2,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,4.5,8.3,1.3,1.2,0.5,34,0.06,7.8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,61,8.1,1.4,0.4,0.4,30,0.24,3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,73,8.5,1.4,0.4,0.4,30,0.24,4.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,0,8.8,1.3,1.3,0.8,38,0.26,2.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,120,7.6,1.5,1.9,0.3,35,0.26,1.8,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Laterite soil,0,5,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,77,8.4,1.4,1.7,0.4,37,0.26,1.5,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,15,8.5,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,77,8,1.4,1.7,0.4,37,0.26,1.5,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,25,8,1.5,0.7,0.3,28,0.1,10.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Laterite soil,15,5.7,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,9,7.5,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,0,8.6,0.3,1.2,0.8,41,0.26,1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,5,8.5,1.3,1.2,0.8,41,0.26,1.1,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,50,8.3,1.4,1.3,0.6,39,0.26,1.4,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,25,5,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Red Soils,15,7.3,1.6,0.7,0.3,27,0.08,13.5,25,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,16,8.1,1.5,0.7,0.3,28,0.1,8,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,7.5,8,1.3,1.2,0.5,34,0.06,8,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,20,7.9,1.5,0.7,0.3,28,0.1,9.05,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,103,7.7,1.5,1.9,0.3,35,0.26,1.4,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,85,8.4,1.4,0.4,0.4,30,0.24,6.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,86,8.5,1.4,0.4,0.4,30,0.24,6.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,21,8.6,1.3,1.3,0.8,38,0.26,3.2,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,15,8.5,1.3,1.2,0.8,41,0.26,1.3,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,103,8,1.5,1.9,0.3,35,0.26,1.4,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,13.5,7.8,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,34,8.5,1.4,0.8,0.6,37,0.24,2.7,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,107,7.8,1.5,1.9,0.3,35,0.26,1.5,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,65,8.3,1.4,0.4,0.4,30,0.24,3.6,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,21,7.9,1.5,0.7,0.3,28,0.1,9.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,12,7.9,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,95,8,1.5,1.9,0.3,35,0.26,1.2,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,10.5,8,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Laterite soil,20,5.4,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,3,8.4,1.3,1.2,0.5,34,0.06,7.7,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,10.5,7.9,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,50,8.8,1.4,1.3,0.6,39,0.26,1.4,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,78,8.1,1.4,0.4,0.4,30,0.24,5.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,55,8.4,1.4,1.3,0.6,39,0.26,1.5,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,107,7.7,1.5,1.9,0.3,35,0.26,1.5,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Shallow soil ,15,8.1,1.3,1.2,0.5,34,0.06,8.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,17,8.4,1.5,0.7,0.3,28,0.1,8.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,0,8.7,1.3,1.3,0.8,38,0.26,2.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,18,8.3,1.3,1.3,0.8,38,0.26,3.1,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,0,5.9,1.7,0.5,0.3,25,0.06,11,18,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,9,8,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,17,8,1.5,0.7,0.3,28,0.1,8.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,26,8.3,1.5,0.7,0.3,28,0.1,10.6,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,78,8.3,1.4,0.4,0.4,30,0.24,5.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,79,8.2,1.4,0.4,0.4,30,0.24,5.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,35.5,8.5,1.4,0.8,0.6,37,0.24,2.8,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,10.5,8.1,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,43,8.3,1.4,0.8,0.6,37,0.24,3.3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,86,8.3,1.4,0.4,0.4,30,0.24,6.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,52.5,8.5,1.4,0.8,0.6,37,0.24,3.9,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,31,8.5,1.4,0.8,0.6,37,0.24,2.5,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,10.5,8.3,1.3,1.2,0.5,34,0.06,8.2,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,24,8.5,1.5,0.7,0.3,28,0.1,10,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,30,8.3,1.5,0.7,0.3,28,0.1,11.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,9,8.3,1.3,1.3,0.8,38,0.26,2.8,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Red Soils,12,7.1,1.6,0.7,0.3,27,0.08,13.1,24,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Red Soils,3,7.2,1.6,0.7,0.3,27,0.08,11.9,21,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Laterite soil,30,5.5,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,15,8.3,1.3,1.3,0.8,38,0.26,3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,80,8.5,1.4,0.4,0.4,30,0.24,5.8,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,15,8.7,1.3,1.3,0.8,38,0.26,3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,0,7.7,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,25,8.1,1.5,0.7,0.3,28,0.1,10.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,30,8.5,1.5,0.7,0.3,28,0.1,11.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,57,8.4,1.4,0.8,0.6,37,0.24,4.2,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,67,8.2,1.4,0.4,0.4,30,0.24,3.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,13.5,8.1,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Red Soils,21,7,1.6,0.7,0.3,27,0.08,14.3,27,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,91,7.9,1.5,1.9,0.3,35,0.26,1.1,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Deep black soil,85,8.1,1.4,1.7,0.4,37,0.26,1.7,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,6,8.3,1.3,1.3,0.8,38,0.26,2.7,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,115,8.1,1.5,1.9,0.3,35,0.26,1.7,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,82,8.4,1.4,0.4,0.4,30,0.24,6.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,62,8.4,1.4,0.4,0.4,30,0.24,3.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,30,8.2,1.5,0.7,0.3,28,0.1,11.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,44.5,8.4,1.4,0.8,0.6,37,0.24,3.4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,111,7.9,1.5,1.9,0.3,35,0.26,1.6,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Laterite soil,25,5.4,1.7,0.5,0.3,25,0.06,16,23,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Shallow soil ,24,8.3,1.5,0.7,0.3,28,0.1,10,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Red Soils,27,7.2,1.6,0.7,0.3,27,0.08,15.1,29,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Shallow soil ,27,8.5,1.5,0.7,0.3,28,0.1,10.9,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,79,8.4,1.4,0.4,0.4,30,0.24,5.7,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Deep black soil,90,8.1,1.4,1.7,0.4,37,0.26,1.8,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,13.5,8.3,1.3,1.2,0.5,34,0.06,8.4,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Shallow soil ,22,8,1.5,0.7,0.3,28,0.1,9.5,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Shallow soil ,24,8.1,1.5,0.7,0.3,28,0.1,10,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Deep black soil,40,8.3,1.4,1.3,0.6,39,0.26,1.2,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,54,8.4,1.4,0.8,0.6,37,0.24,4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,90,7.9,1.4,1.7,0.4,37,0.26,1.8,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,77,8.1,1.4,0.4,0.4,30,0.24,5.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Shallow soil ,9,7.8,1.3,1.2,0.5,34,0.06,8.1,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,37,8.3,1.4,0.8,0.6,37,0.24,2.9,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,46,8.5,1.4,0.8,0.6,37,0.24,3.5,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,9,8.9,1.3,1.3,0.8,38,0.26,2.8,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,12,7.5,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Medium soil,62,8.5,1.4,0.4,0.4,30,0.24,3.1,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,15,5,1.7,0.5,0.3,25,0.06,14,21,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,64,8.4,1.4,0.4,0.4,30,0.24,3.4,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,10,5.5,1.7,0.5,0.3,25,0.06,13,20,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Red Soils,18,7.4,1.6,0.7,0.3,27,0.08,13.9,26,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Red Soils,30,7,1.6,0.7,0.3,27,0.08,15.5,30,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Deep black soil,25,8.4,1.3,1.2,0.8,41,0.26,1.5,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Medium soil,15,8.8,1.3,1.3,0.8,38,0.26,3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,60,8.9,1.4,1.3,0.6,39,0.26,1.6,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,24,8.8,1.3,1.3,0.8,38,0.26,3.3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,54,8.3,1.4,0.8,0.6,37,0.24,4,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,15,8.4,1.3,1.2,0.8,41,0.26,1.3,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Deep black soil,91,7.8,1.5,1.9,0.3,35,0.26,1.1,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Medium soil,21,8.5,1.3,1.3,0.8,38,0.26,3.2,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,0,8.3,1.3,1.2,0.5,34,0.06,7.5,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,99,7.9,1.5,1.9,0.3,35,0.26,1.3,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Deep black soil,20,8,1.3,1.2,0.8,41,0.26,1.4,57,Soybean Pigeonpea Greengram Maize Blackgram Sorghum
+Red Soils,27,7.5,1.6,0.7,0.3,27,0.08,15.1,29,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,74,8.2,1.4,0.4,0.4,30,0.24,4.9,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,58.5,8.2,1.4,0.8,0.6,37,0.24,4.3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,90,8.4,1.4,0.4,0.4,30,0.24,7.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,30,8.7,1.3,1.3,0.8,38,0.26,3.5,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,12,7.6,1.3,1.2,0.5,34,0.06,8.3,38,Soybean Pigeonpea Greengram Maize Blackgram Sorghum Pearlmillet
+Deep black soil,55,8.5,1.4,1.3,0.6,39,0.26,1.5,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,60,8.6,1.4,1.3,0.6,39,0.26,1.6,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Shallow soil ,29,8.1,1.5,0.7,0.3,28,0.1,11.3,35,Soybean Pigeonpea Greengram Blackgram Sorghum Pearlmillet
+Medium soil,48,8.2,1.4,0.8,0.6,37,0.24,3.6,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,15,8.4,1.3,1.3,0.8,38,0.26,3,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Laterite soil,20,5.5,1.7,0.5,0.3,25,0.06,15,22,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Medium soil,71,8.4,1.4,0.4,0.4,30,0.24,4.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Medium soil,83,8.2,1.4,0.4,0.4,30,0.24,6.3,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Laterite soil,30,5,1.7,0.5,0.3,25,0.06,17,24,All vegetables  groundnut potato sorghum Maize Pearlmillet
+Deep black soil,103,7.8,1.5,1.9,0.3,35,0.26,1.4,44,Cotton  Soybean Pigeonpea  Greengram  Blackgram
+Deep black soil,35,8.5,1.4,1.3,0.6,39,0.26,1.1,53,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum
+Medium soil,71,8.1,1.4,0.4,0.4,30,0.24,4.5,36,Cotton Soybean Pigeonpea Greengram Blackgram  Sorghum
+Red Soils,12,7.3,1.6,0.7,0.3,27,0.08,13.1,24,Greengram Blackgram Sorghum Pearlmillet Rag ground nut Maize potato all vegetables
+Medium soil,21,8.3,1.3,1.3,0.8,38,0.26,3.2,48,Soybean Pigeonpea Greengram Blackgram Sorghum
+Deep black soil,90,8.3,1.4,1.7,0.4,37,0.26,1.8,46,Cotton  Soybean Pigeonpea Greengram Blackgram Sorghum
+Medium soil,38.5,8.4,1.4,0.8,0.6,37,0.24,3,44,Soybean Cotton Pigeonpea Greengram Blackgram Sorghum

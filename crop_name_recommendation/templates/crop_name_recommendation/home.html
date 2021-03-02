@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+	<base >
+	<title>
+		Crop Recommendation demo</title>
+	
+{% load static %}
+<link href="{% static 'css/login.min.1512879046.css'%}" rel='stylesheet' >
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Raleway|Source+Code+Pro" rel="stylesheet">
+
+	
+	</head>
+<body  class="" style="background-color:#ffffff;">
+  
+  <div class="wrapper1">
+    <div class="container" style="width:100%;padding:0; height: 100vh;">
+
+   	  <section class="landing-page clearfix" style="background-image: url('{% static 'images/farnerox.jpg' %}');background-size: cover; height: 100vh;">
+
+      <div class="text" style="width: 100%;  margin-top: 5vh; text-align: center;" >
+			  <h1 style="font-size: 54px;line-height: 40px;font-family: 'Raleway', helvetica, sans; font-weight: 100; color: rgba(255, 255, 255, 0.8); text-transform: uppercase;">
+                 
+                  Crop Recommendation to Maximize crop yield
+         </h1>
+      </div>            
+                  
+              <!-- <div class="landing-signup" style="margin-top: 70vh ; background-color: ; "  onclick="window.location.href='login'"  >
+                <div class="css-banner text-center" style="width:100%;left:auto; color: #000;">Let's Start</div>
+                
+              </div> -->
+              <button onclick="scrollWin()" style="width:150px; height : 40px; margin-top: 75vh; margin-left: 44vw; padding: 0px;background-color: orange; text-align: center; border: none; "><h4 style="color: black;">Let's Start</h4></button>
+            
+                 
+      	</section>
+    </div>
+<section  style="background-color: #fff">   
+          
+  <div class="algo-wrapper" style=""  >
+    <div class="box">
+		     <div class="models model1" onclick="window.location.href='{% url 'svm' %}'" style=" ">
+                    
+                      <img src="{% static 'images/slider7.png' %}" alt="">
+                      <h3 class="model-title"><p>SVM</p></h3>
+						
+                      <div class="run" onclick="window.location.href='svm'"><p style="">RUN</p></div>
+                    </div>
+                  
+				  
+				  <div class="models" onclick="">
+      
+                    </div>
+                  
+				  
+	<!--	  <div class=" models" onclick="window.location.href='' >
+                    
+                      <img src="{% static 'images/slider5.jpg' %}" alt="" >
+                      <h3 class="model-title"><p>Random Forest</p></h3>
+						
+                      
+                      
+                      <div class="run" onclick="window.location.href" style="background-color: #FFC107;"><p style="">RUN</p></div>
+                  
+                  </div>   -->
+
+
+
+          
+				  
+				  <div class="models sl-model" onclick="window.location.href='{% url 'neuralnetwork' %}'" >
+                    
+                      <img src="{% static 'images/slider4.png' %}" alt="" >
+                      <h3 class="model-title"><p>Neural Network</p></h3>
+						
+                      
+                     
+                      <div class="run" onclick="window.location.href='neuralnetwork'" style="background-color: #FFC107;"><p style="">RUN</p></div>
+                    
+                  </div>
+
+
+
+          <div class="models l-model" onclick="window.location.href='{% url 'ensembleTech' %}'" >
+            
+                    
+                      <img src="{% static 'images/slider3.png' %}" alt="" >
+                      <h3 class="mode-title"><p>Ensemble</p></h3>
+            
+                     
+                      <div class="run" onclick="window.location.href='ensembleTech'" style="background-color: #FFC107;"><p style="">RUN</p></div>
+                  
+          </div>
+        </div>
+    </div>
+</section>
+
+<div style="background-color:#000000; height: 200px; border-style: solid;" class="foott">  
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300" rel="stylesheet">
+        <ul> 
+          <li id="navlink" class="F"><a href="#" target="_self">Home</a></li>
+		  <li id="navlink"><a href="{% url 'login' %}" target="_self">Log in</a></li>
+    	  <li id="navlink"><a href="{% url 'signup' %}" target="_self">Sign up </a></li>
+          <li id="navlink"><a href="{% url 'aboutus' %}" target="_self">About Us</a></li>
+          <li id="navlink"><a href="{% url 'contactus' %}" target="_self">Contact Us</a></li>
+    
+        </ul>
+</div>
+            
+</div>
+  
+
+		  
+
+<style type="text/css">
+
+
+.foott{
+  clear: both;
+  margin-top: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+#navlink {
+  font-size: 20px;
+  margin-top : 100px;
+  margin-right: 20px;
+  float: left;
+  padding-top: 12px;
+  
+}
+#navlink > a {
+  color: white;
+
+}
+.F{
+  margin-left: 35%;
+}
+
+
+.algo-wrapper{
+  background-color: #fff;
+  height: 130vh;
+  
+  width: 100%;
+  /*border: solid 0.5px black;*/
+  /*box-shaow:   8px 10px 90px #888888;*/
+  
+
+}
+
+.box{
+  background-color: #D3D3D3;
+  /*height: 98%;
+  width: 97.8%;*/
+
+  height: 100%;
+  width: 100%;
+
+  padding: 10px;
+  box-shadow: 8px 8px 80px green; 
+  margin : auto;
+  /*margin-left: 10px;
+  margin-top: 15px;*/
+
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.models{
+  display: inline-block;
+  float: left;
+  margin:20px;
+  margin-left: 60px;
+  box-shadow: 15px 15px 15px grey;
+  background-color: white;
+  text-align: center;
+  cursor: pointer;
+  width: 400px;
+  
+}
+.model1{
+	margin-left: 150px;
+}
+.sl-model{
+margin-top: 80px;
+  margin-left: 25%;
+}
+.l-model{
+  margin-top: 80px;
+
+}
+.models img{
+  width: 100%;
+  padding: 5px;
+  padding-bottom: 0px;
+
+}
+
+.models model-title{
+  font-weight: 100px;
+  margin: 0px;
+
+}
+
+.models .run{
+  background-color: #FFC107;
+  width: 80%;
+  height: 40px;
+  margin: auto;
+  margin-bottom: 20px;
+  border-radius: 2%;
+  text-align: center;
+
+}
+.models p{
+  padding-top: 10px;
+  font-weight: 400;
+}
+
+
+
+</style>
+
+<script>
+
+
+function scrollWin() {
+    //window.scrollBy(0, 760);
+  window.scrollBy({ 
+  top: 750, // could be negative value
+  left: 0, 
+  behavior: 'smooth' 
+});
+}
+</script>
+		
+</body>
+
+</html>

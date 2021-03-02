@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us</title>
+	{% load static %}
+	<link href="https://fonts.googleapis.com/css?family=Anaheim|Dosis" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Muli:300" rel="stylesheet">
+
+</head>
+<body>
+	<div class="landing-page">
+		<div class="landing-page-text"><h1><span style="color: black;">A</span>bout <span style="color: black;">U</span>s</h1></div>
+		<img src="{% static 'images/about-us2.jpg' %}" alt="">
+		
+	</div>
+
+	<div class="rohit about-us">
+		<div class="image">
+			<img src="{% static 'images/boy-image.png' %}">
+		</div>
+		<div class="rohit user-info">
+			<h2 class="name"><span class="about">About</span> Rohit Kumar Rajak</h2>
+			<h3>BE (Computer Engineering)</h3>
+			<h3>Sinhgad Academy of Engineering</h3>
+			<h3>Role - Designer and Developer</h3>
+			<h3>Hobbies - Playing Cricket, Coding</h3>
+		</div>
+	</div>
+
+	<div class="rohit about-us" style="background-color: #ff4d4d">
+		<div class="image">
+			<img src="{% static 'images/boy-image.png' %}">
+		</div>
+		<div class="rohit user-info" style="background-color: #ff8080">
+			<h2 class="name"><span class="about">About</span> Ankit Pawar</h2>
+			<h3>BE (Computer Engineering)</h3>
+			<h3>Sinhgad Academy of Engineering</h3>
+			<h3>Role - Designer and Developer</h3>
+			<h3>Hobbies - Playing Cricket, Coding</h3>
+		</div>
+	</div>
+
+	<div class="rohit about-us" style="background-color: #66ff66">
+		<div class="image">
+			<img src="{% static 'images/girl-image.png' %}">
+		</div>
+		<div class="rohit user-info" style="background-color: #99ff99">
+			<h2 class="name"><span class="about">About</span> Pooja Shinde</h2>
+			<h3>BE (Computer Engineering)</h3>
+			<h3>Sinhgad Academy of Engineering</h3>
+			<h3>Role - Designer and Developer</h3>
+			<h3>Hobbies - Playing Cricket, Coding</h3>
+		</div>
+	</div>
+
+
+	<div class="rohit about-us" style="background-color: #4d94ff">
+		<div class="image">
+			<img src="{% static 'images/girl-image.png' %}">
+		</div>
+		<div class="rohit user-info" style="background-color: #80b3ff">
+			<h2 class="name"><span class="about">About</span> Mitalee Pendeke</h2>
+			<h3>BE (Computer Engineering)</h3>
+			<h3>Sinhgad Academy of Engineering</h3>
+			<h3>Role - Designer and Developer</h3>
+			<h3>Hobbies - Playing Cricket, Coding</h3>
+		</div>
+	</div>
+
+
+
+{% include 'crop_name_recommendation/includes/footer_new.html' %}	
+	
+	</div>
+
+	<style type="text/css">
+	html{
+		padding: 0px;
+		margin: 0px;
+		border: 0px;
+	}
+	body{
+		padding: 0px;
+		margin: 0px;
+		border: 0px;
+	}
+		.landing-page{
+			position: relative;
+			box-sizing: border-box;
+			width: 100vw;
+			height: 99vh;
+		}
+		.landing-page img{
+			background-size: contain;
+			width: 100%;
+			height: 100%;
+			
+		}
+		.landing-page-text{
+			position: absolute;
+			font-size: 75px;
+			left: 500px;
+			top: 100px;
+			font-family: 'Muli', sans-serif;
+			color: white;
+		}
+		.about-us{
+			width: 99vw;
+			height: 99vh;
+			background-color: #66ccff;
+			box-sizing: border-box;
+		}
+		.about-us img{
+			width: 450px;
+			height: 450px;
+			margin: 100px 0px 0px 50px;
+			border-radius: 50%;
+			float: left;
+		}
+
+		.user-info{
+			font-family: 'Anaheim', sans-serif;
+			text-align: justify-all;
+			margin: 100px 0px 0px 400px;
+			float: left;
+			width: 500px;
+			height: 500px;
+			padding: 20px;
+			background-color: #99ddff;
+			box-shadow: 10px 10px 80px black;
+			text-align: center;
+		}
+		.user-info .name{
+			text-align: center;
+			font-size: 40px;
+		}
+		.user-info .about{
+			font-family: 'Dosis', sans-serif;
+
+		}
+	</style>
+</body>
+</html>

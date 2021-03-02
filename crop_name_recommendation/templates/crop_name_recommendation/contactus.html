@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contct Us</title>
+	{% load static %}
+	<link href="https://fonts.googleapis.com/css?family=Anaheim|Dosis" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Muli:300" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300" rel="stylesheet">
+</head>
+<body>
+	<div class="landing-page">
+		<h1 class="landing-page-text"><span style="font-weight: 600;color: white">C</span>ontact <span style="font-weight: 600;color: white;">U</span>s</h1>
+		<img src="{% static 'images/contact-us.png' %}" alt="">
+	</div>
+
+	<div class="contact-us">
+		<h1>Team Members</h1>
+
+
+		<div class="rohit">
+		<h2>1. Rohit Kumar Rajak</h2>
+		<h3>Phone - 8446661901</h3>
+		<h3>E-Mail - rohitrajak8932@gmail.com</h3>
+		</div>
+
+
+		<div class="ankit">
+		<h2>2. Ankit Pawar</h2>
+		<h3>Phone - 8446661901</h3>
+		<h3>E-Mail - rohitrajak8932@gmail.com</h3>
+		</div>
+
+		<div class="pooja">
+		<h2>3. Pooja Shinde</h2>
+		<h3>Phone - 8446661901</h3>
+		<h3>E-Mail - rohitrajak8932@gmail.com</h3>
+		</div>
+
+		<div class="mitalee">
+		<h2>4. Mitalee Pendeke</h2>
+		<h3>Phone - 8446661901</h3>
+		<h3>E-Mail - rohitrajak8932@gmail.com</h3>
+		</div>
+
+		<div class="suresh">
+		<h2> Suresh Rathod (Guide)</h2>
+		<h3>Phone - 8446661901</h3>
+		<h3>E-Mail - rohitrajak8932@gmail.com</h3>
+		</div>
+
+
+	</div>
+	
+	{% include 'crop_name_recommendation/includes/footer_new.html' %}
+	<style type="text/css">
+
+	html{
+			padding: 0px;
+			margin: 0px;
+			border: 0px;
+		}
+		body{
+			padding: 0px;
+			margin: 0px;
+			border: 0px;
+		}
+		.landing-page{
+			width: 100%;
+			height: 100vh;
+			background-color: lightblue;
+			position: relative;
+		}
+		.landing-page img{
+			
+			width: 100%;
+			height: 100%;
+		}
+		.landing-page-text{
+			position: absolute;
+			font-size: 75px;
+			left: 1000px;
+			top: 200px;
+			font-weight: 100;
+			font-family: 'Muli', sans-serif;
+
+		}
+		.contact-us{
+			font-family: 'Montserrat', sans-serif;
+			padding: 0px;
+			margin: 0px;
+			width: 100vw;
+			height: 100vh;
+			background-color: black;
+
+		}
+		
+		.rohit{
+			background-color: #66ccff;
+			padding-bottom: 20px;
+		}
+		.ankit{
+			background-color: #ff4d4d;
+			padding-bottom: 20px;
+		}
+		.pooja{
+			background-color: #66ff66;
+			padding-bottom: 20px;
+		}
+		.mitalee{
+			background-color: #4d94ff;
+			padding-bottom: 20px;
+		}
+		.suresh{
+			background-color: #ffff80;
+			padding-bottom: 20px;
+			display: block;
+			
+
+		}
+		.contact-us  h1{
+			color: white;
+			text-align: center;
+			margin: 0px;
+			padding-top: 20px;
+			padding-bottom: 20px;
+			padding-left: 40px;
+			font-size: 30px;
+		}
+
+		h2{
+			margin: 0px;
+			padding-top: 30px;
+			padding-left: 50px;
+		}
+
+		h3{
+			margin: 0px;
+			padding-top: 20px;
+			padding-left: 60px;
+		}
+
+
+		.foott{
+  			clear: both;
+  			margin-top: 50px;
+		}
+
+	</style>
+
+
+	
+</body>
+</html>
